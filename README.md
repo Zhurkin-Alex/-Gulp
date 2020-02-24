@@ -1,5 +1,7 @@
 # Gulp
 
+
+  ```
 Сборка:  
 "devDependencies": {
     "browser-sync": "^2.26.7",
@@ -15,3 +17,4 @@
     "magnific-popup": "^1.1.0",
     "slick-carousel": "^1.8.1"
   }
+```
